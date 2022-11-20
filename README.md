@@ -1,1 +1,1 @@
-# tryGameServer
+禁止任何违法，商业用途
