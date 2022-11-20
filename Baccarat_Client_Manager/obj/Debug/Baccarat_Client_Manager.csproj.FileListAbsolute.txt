@@ -1,0 +1,87 @@
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\Baccarat_Client_Manager.exe.config
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\Baccarat_Client_Manager.exe
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\Baccarat_Client_Manager.pdb
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.csproj.AssemblyReference.cache
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Properties.Resources.resources
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.csproj.GenerateResource.cache
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.csproj.CoreCompileInputs.cache
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.exe
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.pdb
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\TouchSocket.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\TouchSocket.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.csproj.CopyComplete
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Baccarat_Client_Manager.resources
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\MongoDB.Bson.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\MongoDB.Bson.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Forms.mainManagerAdmin.resources
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Forms.mainManagerSuper.resources
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\Newtonsoft.Json.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\Xabe.FFmpeg.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\Newtonsoft.Json.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\Xabe.FFmpeg.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Forms.fileUpload.resources
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\Instances.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Buffers.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Drawing.Common.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Memory.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Numerics.Vectors.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Text.Encodings.Web.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Text.Json.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.ValueTuple.dll
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Buffers.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Memory.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Numerics.Vectors.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Text.Encodings.Web.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Text.Json.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\getMoney\Baccarat\client_Manager\Baccarat_Client_Manager\bin\Debug\System.ValueTuple.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\Baccarat_Client_Manager.exe.config
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\Baccarat_Client_Manager.exe
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\Baccarat_Client_Manager.pdb
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\Instances.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\MongoDB.Bson.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Buffers.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Drawing.Common.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Memory.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Text.Json.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.ValueTuple.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\TouchSocket.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\Xabe.FFmpeg.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\MongoDB.Bson.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Buffers.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Memory.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Text.Json.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\System.ValueTuple.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\TouchSocket.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\bin\Debug\Xabe.FFmpeg.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.csproj.AssemblyReference.cache
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Baccarat_Client_Manager.resources
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Forms.fileUpload.resources
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Forms.mainManagerAdmin.resources
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Forms.mainManagerSuper.resources
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Forms.userManager.resources
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Properties.Resources.resources
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.csproj.GenerateResource.cache
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.csproj.CoreCompileInputs.cache
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.csproj.CopyComplete
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.exe
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.pdb
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Forms.userMessage.resources
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\client_Manager\Baccarat_Client_Manager\obj\Debug\Baccarat_Client_Manager.Forms.fmManager.resources
