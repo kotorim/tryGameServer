@@ -1,0 +1,128 @@
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Baccarat_Server.exe.config
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Baccarat_Server.exe
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Baccarat_Server.pdb
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.csproj.AssemblyReference.cache
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.Properties.Resources.resources
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.csproj.GenerateResource.cache
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.csproj.CoreCompileInputs.cache
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.csproj.CopyComplete
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.exe
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.pdb
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\libzstd.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\snappy32.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\snappy64.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\libsnappy64.so
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\libzstd.so
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\libsnappy64.dylib
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\libzstd.dylib
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\mongocrypt.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\DnsClient.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Microsoft.Win32.Registry.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Bson.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Driver.Core.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Driver.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\SharpCompress.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Buffers.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.IO.Pipelines.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Memory.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Numerics.Vectors.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Security.AccessControl.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Security.Principal.Windows.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Threading.Channels.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\DnsClient.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Microsoft.Win32.Registry.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Bson.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Driver.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Driver.Core.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Pipelines.Sockets.Unofficial.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Buffers.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.IO.Pipelines.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Memory.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Numerics.Vectors.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Security.AccessControl.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Security.Principal.Windows.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Threading.Channels.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\TouchSocket.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\TouchSocket.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.Baccarat_Server.resources
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.Forms.workingForm.resources
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Newtonsoft.Json.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Xabe.FFmpeg.dll
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Newtonsoft.Json.xml
+D:\getMoney\Baccarat\server\Baccarat_Server\Baccarat_Server\bin\Debug\Xabe.FFmpeg.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.csproj.AssemblyReference.cache
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.Baccarat_Server.resources
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.Forms.workingForm.resources
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.Properties.Resources.resources
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.csproj.GenerateResource.cache
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.csproj.CoreCompileInputs.cache
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.exe
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.pdb
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\libzstd.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\snappy32.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\snappy64.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\libsnappy64.so
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\libzstd.so
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\libsnappy64.dylib
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\libzstd.dylib
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\mongocrypt.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Baccarat_Server.exe.config
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Baccarat_Server.exe
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Baccarat_Server.pdb
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\DnsClient.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Bson.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Driver.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\SharpCompress.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Buffers.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.IO.Pipelines.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Memory.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Security.AccessControl.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Threading.Channels.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\TouchSocket.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Xabe.FFmpeg.dll
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\DnsClient.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Bson.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Driver.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Buffers.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.IO.Pipelines.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Memory.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Security.AccessControl.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Threading.Channels.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\TouchSocket.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\bin\Debug\Xabe.FFmpeg.xml
+C:\Users\koto`s laptop\Documents\Games\cocos\mygit\server\Baccarat_Server\Baccarat_Server\obj\Debug\Baccarat_Server.csproj.CopyComplete
